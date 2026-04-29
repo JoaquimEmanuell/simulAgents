@@ -1,0 +1,18 @@
+Iniciando o agente de entrega...
+Resultado final da missão:
+Aqui estão os passos realizados para entregar o pacote no destino (5, 5):
+
+1. **Posição inicial:** (0, 0) - Bateria: 100%
+2. **Movimento 1:** Para (0, 1) - Bateria: 95%
+3. **Movimento 2:** Para (0, 2) - Bateria: 90%
+4. **Movimento 3:** Para (1, 2) - Bateria: 85%
+5. **Movimento 4:** Para (2, 2) - Bateria: 80%
+6. **Movimento 5:** Para (3, 2) - Bateria: 75%
+7. **Movimento 6:** Para (4, 2) - Bateria: 70%
+8. **Movimento 7:** Para (5, 2) - Bateria: 65%
+9. **Movimento 8:** Para (5, 3) - Bateria: 60%
+10. **Movimento 9:** Para (5, 5) - Bateria: 55%
+
+O pacote foi entregue com sucesso no destino (5, 5)!
+
+Execution time: 10 min
